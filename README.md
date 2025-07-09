@@ -1,2 +1,2 @@
-# PHP calculators
+# PHP calculator
 memabuat web kalkulator menggunakan php
